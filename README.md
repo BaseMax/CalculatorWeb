@@ -1,8 +1,12 @@
-# Calculator Web
+# Calculator Web - JavaScript
 
 A online calculator using web technology based on Javascript.
 
 Demo: https://basemax.github.io/CalculatorWeb/
+
+![Calculator Web - JavaScript](screen1.jpg)
+
+![Calculator Web - JavaScript](screen1.jpg)
 
 ---------
 
