@@ -6,7 +6,7 @@ Demo: https://basemax.github.io/CalculatorWeb/
 
 ![Calculator Web - JavaScript](screen1.jpg)
 
-![Calculator Web - JavaScript](screen1.jpg)
+![Calculator Web - JavaScript](screen2.jpg)
 
 ---------
 
